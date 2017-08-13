@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.cs
+!*.c
+!*.h
+*.txt
+AssemblyInfo.cs
+
+
+# etc...
+ 
+# ...even if they are in subdirectories
+!*/
